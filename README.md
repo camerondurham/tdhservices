@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Have Docker installed and running:
+- Have Docker installed and running:
     - [macOS](https://docs.docker.com/docker-for-mac/install/)
     - [Windows 10](https://docs.docker.com/docker-for-windows/install/)
     - [CentOS](https://docs.docker.com/install/linux/docker-ce/centos/)
