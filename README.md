@@ -12,7 +12,7 @@
 
 ## tdhwebscraper
 
-### Building and Running Manually
+### Build and Run
 
 ```sh
 # change change directories to this folder
@@ -35,7 +35,7 @@ docker run -p 4000:4000
 
 ### Build and Run with `docker-compose`
 
-**WARNING:** still being debugged, may not work quite yet!
+**Warning: still debugging**, may not work yet!
 
 ```sh
 # change change directories to this folder
