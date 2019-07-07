@@ -1,0 +1,10 @@
+version: "3"
+services:
+    web:
+      image: camerondurham/webscraper:v1
+      ports:
+        - "4000:4000"
+      networks:
+        - webnet
+networks:
+  webnet:
