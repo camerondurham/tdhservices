@@ -25,6 +25,8 @@ docker build --tag=tdhwebscraper .
 docker run -p <LOCAL PORT>:4000 tdhwebscraper
 ```
 
+See [Troubleshooting for Linux Users](https://docs.docker.com/get-started/part2/) for DNS issues.
+
 _example_:
 
 ```sh
