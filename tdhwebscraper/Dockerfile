@@ -1,11 +1,11 @@
-FROM python:latest
+FROM python:slim
 
 WORKDIR /app
 
-COPY ./tdhwebscraper /app
+COPY ./app /app
 
 RUN pip3.7 install -r requirements.txt
 
-EXPOSE 4000
+EXPOSE 3000
 
 CMD ["python", "api.py"]

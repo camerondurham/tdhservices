@@ -8,8 +8,40 @@ class DictEncoder(JSONEncoder):
     """
     Using JSONEncoder to implement custom serialization for sending JSON responses
     """
+
     def default(self, o):
         return o.__dict__
+
+class DiningHall:
+    """ DiningHall class stores an array of menus, ordered by meal menus
+        DiningHall:
+             menus = [
+                {
+                    "name" : "Breakfast",
+                    "dishes" : [
+                                {dish1},
+                                ...
+                                ]
+                },
+                {
+                    "name" : "Lunch",
+                    "dishes" : [
+                                {dish1},
+                                ...
+                                ]
+                }
+    """
+    def __init__(self, dining_hall):
+        self.dining_hall = dining_hall
+        self.menus = [ ]
+
+    def add_menu(self, menu):
+        self.menus.append(menu)
+
+    def toJSON(self):
+        import json
+        return json.dumps(self, default=lambda o: o.__dict__,
+                sort_keys=True, indent=4)
 
 class Menu:
     """ Menu class stores dictionary of kitchen names mapped to list of dishes
@@ -31,25 +63,21 @@ class Menu:
 
 
     """
+
     def __init__(self, dining_hall, meal):
-        self.dining_hall = dining_hall
         self.meal = meal
-        #self.kitchens = {}
 
         # list of dishes kitchen tags
         self.dishes = []
 
     def print_menu(self):
-        print("\nDINING HALL:" + self.dining_hall + " - "+ self.meal)
         for dish in self.dishes:
-            #print("CATEGORY: " + dish.kitchen)
             dish.print_item()
 
 
     def return_menu_string(self):
         ret_str = ""
         ret_str += "\n\nDINING HALL:"
-        ret_str += self.dining_hall
         ret_str += "\n" + self.meal
         for dish in self.dishes:
             ret_str += "\nCATEGORY: " + dish.kitchen + "\n" + dish.ret_item()
@@ -58,11 +86,6 @@ class Menu:
 
     def add_dish(self, dish):
         self.dishes.append(dish)
-
-#    def add_kitchen(self, name, items):
-#        print("ADDING AN ITEM NAME: " + name)
-#        self.kitchens[name] = items
-#        print("Len of kichen is: "  + str(len(self.kitchens)))
 
     def toJSON(self):
         import json
@@ -91,7 +114,7 @@ class Dish:
 class MenuScraper:
     def __init__(self,  main_url = "https://hospitality.usc.edu/residential-dining-menus/"):
         self.main_url = main_url
-        self.menus = {}
+        self.menus_by_dh = {}
         self.loaded = False
 
     def clear(self):
@@ -103,68 +126,15 @@ class MenuScraper:
         self.data = requests.get(self.this_url)
         self.soup = BeautifulSoup(self.data.text, 'html.parser')
 
-    def print_all_menus(self):
-        print("\n")
-        for k,v in self.menus.items():
-            print("\nMeal:  " + k + "  ", end=" ")
-
-            for x in v:
-                x.print_menu()
-        print("\n")
-
     def return_menus(self):
-        return json.dumps(self.menus, cls=DictEncoder)
-
-    def return_all_menus(self):
-        ret_str = ""
-
-        for k,v in self.menus.items():
-            ret_str += "\nMeal:  " + k
-
-            for x in v:
-                ret_str += x.return_menu_string()
-        return ret_str
-
-#    def dump_json(self):
-#        """
-#        Writes json objects of individual menu objects to menu-output.json file
-#        """
-#        import json
-#        f = open("menu-output.json","a+")
-#        f.write("{")
-#
-#        for key, value in self.menus.items():
-#            for v in value:
-#                f.write("\n")
-#                f.write(v.toJSON())
-#                f.write(",")
-#        f.write("}")
-#        f.close()
+        #return json.dumps(self.menus, cls=DictEncoder)
+        return json.dumps(self.menus_by_dh, cls=DictEncoder)
 
     def return_menu(self):
         """
         Returns array of menu objects
         """
         return self.menus.values()
-
-
-    def return_menu_json(self):
-        """
-        Returns json array of menu objects
-        """
-        import json
-
-        ret_str = "["
-
-        for value in self.menus.values():
-            #for v in value:
-            for i in range(len(value)):
-                ret_str += "\n" + value[i].toJSON()
-                if i < len(value) - 1:
-                    ret_str += ","
-        ret_str += "]"
-
-        return ret_str
 
 
     def date_url_old(self, yr, mo, dy):
@@ -224,12 +194,18 @@ class MenuScraper:
         for meal in  self.soup.find_all('div',{'class':'hsp-accordian-container'}):
             meal_title = meal.find('span',{'class':'fw-accordion-title-inner'}).text
             meal_name = meal_title.split(" ")[0]
-            self.menus[ meal_name ] = []
+            dining_hall = ""
             for item in meal.find_all('div',{'class':'col-sm-6 col-md-4'}):
                 menu_items = item.find_all('ul')
                 i = 0
 
                 dining_hall = item.find('h3', {'class':'menu-venue-title'}).text
+
+                try:
+                    self.menus_by_dh[ dining_hall ]
+                except:
+                    self.menus_by_dh[ dining_hall ] = DiningHall(dining_hall)
+
                 dhm = Menu(dining_hall, meal_name)
                 for cat in item.find_all('h4'):
                     category = cat.text
@@ -251,5 +227,6 @@ class MenuScraper:
 
                     i = i + 1
 
-                self.menus[meal_name].append(dhm)
+                if len(dhm.dishes) > 0:
+                    self.menus_by_dh[dining_hall].add_menu(dhm)
 

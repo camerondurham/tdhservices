@@ -1,0 +1,1981 @@
+{
+    "Breakfast": [
+        {
+            "dining_hall": "USC Village Dining Hall",
+            "meal": "Breakfast",
+            "dishes": [
+                {
+                    "dish_name": "Made to Order Cage Free Omelettes (Customize for veggie option)",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Pork",
+                        "Soy",
+                        "Vegan",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Bob's Red Mill Thick Cut Oatmeal",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Oat n' Honey Granola",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Assorted Fruits",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Vanilla Yogurt",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Strawberry Yogurt",
+                    "dietary_tags": [
+                        "Dairy"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Boiled Eggs",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Peanut Butter",
+                    "dietary_tags": [
+                        "Peanuts",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Assorted Breakfast Pastries and Breads",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Bacon",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Maple Pork Sausage",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Potatoes O'Brien",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Steak and Eggs",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Spinach and Feta Scramble",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Flexitarian"
+                }
+            ]
+        },
+        {
+            "dining_hall": "Parkside Restaurant & Grill",
+            "meal": "Breakfast",
+            "dishes": [
+                {
+                    "dish_name": "Assorted Fruits",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Pizza/Salad Bar"
+                },
+                {
+                    "dish_name": "Waffle Bar",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Pizza/Salad Bar"
+                },
+                {
+                    "dish_name": "Assorted Yogurt (Non-dairy yogurt available upon request)",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Soy",
+                        "Vegan",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Pizza/Salad Bar"
+                },
+                {
+                    "dish_name": "Oatmeal",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Cheese Blintzes",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Huevos Rancheros",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Assorted Breakfast Pastries and Breads",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Scrambled Eggs",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Americana"
+                },
+                {
+                    "dish_name": "Triangle Hash Browns",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan"
+                    ],
+                    "kitchen": "Americana"
+                },
+                {
+                    "dish_name": "Turkey Sausage Patty",
+                    "dietary_tags": [],
+                    "kitchen": "Americana"
+                },
+                {
+                    "dish_name": "Boiled Eggs",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Americana"
+                },
+                {
+                    "dish_name": "Bacon",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Americana"
+                },
+                {
+                    "dish_name": "PIRC Made to Order Omelette Bar",
+                    "dietary_tags": [],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Fried Egg",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Over Easy Eggs",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Over Medium Eggs",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Egg Whites",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Crumbled Pork Sausage",
+                    "dietary_tags": [
+                        "Pork",
+                        "Soy"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Pork Chorizo",
+                    "dietary_tags": [
+                        "Pork",
+                        "Soy"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Chopped Ham",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Bacon",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Tofu",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Chopped Onion",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Chopped Bell Peppers",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Chopped Tomatoes",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Spinach Leaves",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Sliced Jalapenos",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Sliced Mushrooms",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "Shredded Cheese",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Bistro"
+                }
+            ]
+        },
+        {
+            "dining_hall": "Everybody's Kitchen",
+            "meal": "Breakfast",
+            "dishes": [
+                {
+                    "dish_name": "Made to Order Cage Free Omelettes (Customize for veggie option)",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Pork",
+                        "Soy",
+                        "Vegan",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Corned Beef Hash",
+                    "dietary_tags": [],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Apple Raisin Blintzes",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Potato Latkes",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Scrambled Eggs",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Boiled Eggs",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Bacon",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Pork Sausage Links",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Yogurt Parfait Bar (Dairy Free Yogurt available upon request)",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Soy",
+                        "Vegan",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                },
+                {
+                    "dish_name": "Bob's Red Mill Thick Cut Oatmeal",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                },
+                {
+                    "dish_name": "Assorted Breads and Bagels",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                },
+                {
+                    "dish_name": "Peanut Butter",
+                    "dietary_tags": [
+                        "Peanuts",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                },
+                {
+                    "dish_name": "Strawberry Banana Smoothie",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                },
+                {
+                    "dish_name": "Waffle Bar",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                },
+                {
+                    "dish_name": "Assorted Fruits",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                }
+            ]
+        }
+    ],
+    "Brunch": [
+        {
+            "dining_hall": "USC Village Dining Hall",
+            "meal": "Brunch",
+            "dishes": []
+        },
+        {
+            "dining_hall": "Parkside Restaurant & Grill",
+            "meal": "Brunch",
+            "dishes": []
+        },
+        {
+            "dining_hall": "Everybody's Kitchen",
+            "meal": "Brunch",
+            "dishes": []
+        }
+    ],
+    "Lunch": [
+        {
+            "dining_hall": "USC Village Dining Hall",
+            "meal": "Lunch",
+            "dishes": [
+                {
+                    "dish_name": "Peanut Butter",
+                    "dietary_tags": [
+                        "Peanuts",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Strawberry Preserves",
+                    "dietary_tags": [
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Mustard Dijon",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Mayonnaise",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Basil Pesto",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Tuna Salad",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Fish",
+                        "Soy"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Spiral Sliced Ham",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced Turkey",
+                    "dietary_tags": [],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Spreadable Brie Cheese",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced Honey Wheat Bread",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced Multi Grain Bread",
+                    "dietary_tags": [
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced Sourdough Bread",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced French Bread",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Whipped Cream",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Assorted Berries",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Sliced Almonds",
+                    "dietary_tags": [
+                        "Tree Nuts",
+                        "Vegan"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Nutella",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Tree Nuts",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Powdered Sugar",
+                    "dietary_tags": [
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Chocolate Chips",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Chia Seeds",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Mint Chocolate Chip Ice Cream",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Vanilla Bean Ice Cream",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Raspberry Sorbet",
+                    "dietary_tags": [
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Classic Meatloaf",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Herb Roasted Turkey with Gravy",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Roasted Asparagus",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Glazed Butternut Squash",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Garlic Mashed Potatoes",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Steamed Barley",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Cilantro Rice",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based"
+                },
+                {
+                    "dish_name": "Tandoori Cauliflower and Chickpea Bowl with Cashew Raita",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Tree Nuts",
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based"
+                },
+                {
+                    "dish_name": "Vegan Feijoada (Brazilian Vegetable Stew)",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based"
+                },
+                {
+                    "dish_name": "Traditional Hummus",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Cilantro Hummus",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Roasted Red Pepper Hummus",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Roasted Vegetables",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Assorted Olives",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Olive Tapenade",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Tahini Sauce",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Assorted Pickled and Marinated Vegetables",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Sundried Tomatoes",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Pasta Salad",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Tabbouleh",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Plant Based - Mezze Bar"
+                },
+                {
+                    "dish_name": "Spicy Raw Sushi Sesame Tuna",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Fish",
+                        "Sesame",
+                        "Soy"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Sushi White Rice",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Pickled Ginger",
+                    "dietary_tags": [
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Shredded Carrots",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Sliced Green Onions",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Sesame Seeds",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Wasabi Paste",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Shredded Daikon",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Shredded Cucumber",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Nori",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Assorted Pastries and Desserts",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Tree Nuts",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Assorted Fruits",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Blueberry Cobbler",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Blue Cheese Dressing",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Asian Style Dressing",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Ranch Dressing",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Vegan Caesar Dressing",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Red Wine Vinaigrette",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Balsamic Vinaigrette",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Expo Potato Salad",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Expo Coleslaw",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Village French Onion Soup",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Vegetable Rice Soup",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Salad Bar"
+                }
+            ]
+        },
+        {
+            "dining_hall": "Parkside Restaurant & Grill",
+            "meal": "Lunch",
+            "dishes": [
+                {
+                    "dish_name": "Rice Pilaf",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Lentils",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Roasted Brussel Sprouts",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Moroccan Spiced Grilled Chicken Tagine",
+                    "dietary_tags": [],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Hunter Style Roast Pork",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Pork",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Plain Pasta",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Pink Pomodoro Sauce",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Steamed Quinoa",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Steamed California Blend Vegetables",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Aloo Gobi (Indian Style Cauliflower and Potatoes)",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Cream of Broccoli Soup",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Saimin Soup",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Pork",
+                        "Shellfish",
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Eurasia"
+                },
+                {
+                    "dish_name": "Salad and Deli Bar (Customize for veggie options)",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "Pizza/Salad Bar"
+                },
+                {
+                    "dish_name": "Kale and Roasted Corn Salad with Feta",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Pizza/Salad Bar"
+                },
+                {
+                    "dish_name": "Margherita Flatbread Pizza",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Pizza/Salad Bar"
+                },
+                {
+                    "dish_name": "White Chicken Naan Pizza",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Pizza/Salad Bar"
+                },
+                {
+                    "dish_name": "Stir Fry Bar (Customize for veggie options)",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "Bistro"
+                },
+                {
+                    "dish_name": "AAZ Moroccan Chicken",
+                    "dietary_tags": [],
+                    "kitchen": "Allergen Awareness Zone (must register for access)"
+                },
+                {
+                    "dish_name": "Roasted Brussel Sprouts",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Allergen Awareness Zone (must register for access)"
+                },
+                {
+                    "dish_name": "Baked Potatoes",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Allergen Awareness Zone (must register for access)"
+                },
+                {
+                    "dish_name": "Beef and Pork Meatball Marinara Sandwich",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Pork",
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Americana"
+                },
+                {
+                    "dish_name": "Roasted Vegetable and Hummus Lavash Wrap",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Americana"
+                },
+                {
+                    "dish_name": "Curly Fries",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Americana"
+                }
+            ]
+        },
+        {
+            "dining_hall": "Everybody's Kitchen",
+            "meal": "Lunch",
+            "dishes": [
+                {
+                    "dish_name": "Tostada Bar (Customize to make vegetarian options)",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Brown Rice Pilaf",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Steak Fries",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Sauteed Kale",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Roasted Squash",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Quinoa, Roasted Eggplant and Cherry Tomatoes",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "BBQ Pork Ribs",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Beer Battered Fish",
+                    "dietary_tags": [
+                        "Fish",
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Tartar Sauce",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Wild Mushroom Thick Crust Pizza",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Spicy Italian Meat Lover's Flatbread Pizza",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Pork",
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Hot Line"
+                },
+                {
+                    "dish_name": "Salad and Deli Bar (Customize for veggie options)",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                },
+                {
+                    "dish_name": "Cobb Salad",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Fish",
+                        "Pork",
+                        "Soy"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                },
+                {
+                    "dish_name": "Tomato Bisque",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                },
+                {
+                    "dish_name": "Chicken Noodle Soup with Egg Noodles",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Fresh from the Farm"
+                }
+            ]
+        }
+    ],
+    "Dinner": [
+        {
+            "dining_hall": "USC Village Dining Hall",
+            "meal": "Dinner",
+            "dishes": [
+                {
+                    "dish_name": "Chicken Gorgonzola",
+                    "dietary_tags": [
+                        "Dairy"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Sea Bass with Lemon Dill Sauce",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Fish"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Green Bean Casserole",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Pork",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Sauteed Squash",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Roasted Sweet Potatoes",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Roasted Potatoes",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Flexitarian"
+                },
+                {
+                    "dish_name": "Peanut Butter",
+                    "dietary_tags": [
+                        "Peanuts",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Strawberry Preserves",
+                    "dietary_tags": [
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Mustard Dijon",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Mayonnaise",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Basil Pesto",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Tuna Salad",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Fish",
+                        "Soy"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Spiral Sliced Ham",
+                    "dietary_tags": [
+                        "Pork"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced Turkey",
+                    "dietary_tags": [],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Spreadable Brie Cheese",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced Honey Wheat Bread",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced Multi Grain Bread",
+                    "dietary_tags": [
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced Sourdough Bread",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Sliced French Bread",
+                    "dietary_tags": [
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Deli Bar"
+                },
+                {
+                    "dish_name": "Whipped Cream",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Assorted Berries",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Sliced Almonds",
+                    "dietary_tags": [
+                        "Tree Nuts",
+                        "Vegan"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Nutella",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Tree Nuts",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Powdered Sugar",
+                    "dietary_tags": [
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Chocolate Chips",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Chia Seeds",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Mint Chocolate Chip Ice Cream",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Vanilla Bean Ice Cream",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Raspberry Sorbet",
+                    "dietary_tags": [
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Crepes"
+                },
+                {
+                    "dish_name": "Cilantro Rice",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based"
+                },
+                {
+                    "dish_name": "Tandoori Cauliflower and Chickpea Bowl with Cashew Raita",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Tree Nuts",
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based"
+                },
+                {
+                    "dish_name": "Vegan Feijoada (Brazilian Vegetable Stew)",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Plant Based"
+                },
+                {
+                    "dish_name": "Spicy Raw Sushi Sesame Tuna",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Fish",
+                        "Sesame",
+                        "Soy"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Sushi White Rice",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Pickled Ginger",
+                    "dietary_tags": [
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Shredded Carrots",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Sliced Green Onions",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Sesame Seeds",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Wasabi Paste",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Shredded Daikon",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Shredded Cucumber",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Nori",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Expo"
+                },
+                {
+                    "dish_name": "Assorted Pastries and Desserts",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Tree Nuts",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Assorted Fruits",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Blueberry Cobbler",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Breakfast/Dessert/Fruit"
+                },
+                {
+                    "dish_name": "Blue Cheese Dressing",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Asian Style Dressing",
+                    "dietary_tags": [
+                        "Sesame",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Ranch Dressing",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Vegan Caesar Dressing",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Red Wine Vinaigrette",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Balsamic Vinaigrette",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Expo Potato Salad",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Expo Coleslaw",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Village French Onion Soup",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "Salad Bar"
+                },
+                {
+                    "dish_name": "Vegetable Rice Soup",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "Salad Bar"
+                }
+            ]
+        },
+        {
+            "dining_hall": "Parkside Restaurant & Grill",
+            "meal": "Dinner",
+            "dishes": [
+                {
+                    "dish_name": "Hamburger",
+                    "dietary_tags": [
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Hot Dog",
+                    "dietary_tags": [
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "BBQ Chicken",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Vegan Boca Burger",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Potato Salad",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Macaroni Salad",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Assorted Chips",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Assorted Cookies",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Peanuts",
+                        "Soy",
+                        "Tree Nuts",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Watermelon",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Lemonade",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                }
+            ]
+        },
+        {
+            "dining_hall": "Everybody's Kitchen",
+            "meal": "Dinner",
+            "dishes": [
+                {
+                    "dish_name": "Hamburger",
+                    "dietary_tags": [
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Hot Dog",
+                    "dietary_tags": [
+                        "Soy",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Vegan Boca Burger",
+                    "dietary_tags": [
+                        "Soy",
+                        "Vegan",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "BBQ Chicken",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Potato Salad",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Macaroni Salad",
+                    "dietary_tags": [
+                        "Eggs",
+                        "Soy",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Watermelon",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Assorted Chips",
+                    "dietary_tags": [
+                        "Food Not Analyzed for Allergens"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Assorted Cookies",
+                    "dietary_tags": [
+                        "Dairy",
+                        "Eggs",
+                        "Peanuts",
+                        "Soy",
+                        "Tree Nuts",
+                        "Vegetarian",
+                        "Wheat / Gluten"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                },
+                {
+                    "dish_name": "Lemonade",
+                    "dietary_tags": [
+                        "Vegan"
+                    ],
+                    "kitchen": "All Hall BBQ at McCarthy Quad"
+                }
+            ]
+        }
+    ]
+}

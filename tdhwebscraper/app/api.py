@@ -23,4 +23,4 @@ def get_date():
         return Response(ms.return_menus(), mimetype='application/json', status=400)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=4000)
+    app.run(host='0.0.0.0', port=3000)
